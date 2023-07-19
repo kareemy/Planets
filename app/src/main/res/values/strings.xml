@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="mercury">Mercury is a scorched planet closest to the Sun.</string>
+    <string name="venus">Venus is a sweltering world with a runaway greenhouse effect.</string>
+    <string name="earth">Earth is our home teeming with life.</string>
+    <string name="mars">Mars is a red planet with potential signs of past habitability.</string>
+    <string name="ceres">Ceres is the largest object in the asteroid belt, considered a dwarf planet, and it holds valuable insights into the early solar system\'s history.</string>
+    <string name="jupiter">Jupiter is the largest gas giant with a striking Great Red Spot.</string>
+    <string name="saturn">Saturn is adorned by its iconic rings.</string>
+    <string name="uranus">Uranus is an ice giant tilted on its side.</string>
+    <string name="neptune">Neptune is the farthest known ice giant with a striking blue hue.</string>
+    <string name="pluto">Pluto is a dwarf planet in the Kuiper Belt.</string>
+</resources>
